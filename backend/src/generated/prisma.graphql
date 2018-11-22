@@ -1,5 +1,5 @@
 # source: https://eu1.prisma.sh/sergey-bunas-2ee6b0/sick-fits/dev
-# timestamp: Sat Nov 17 2018 16:04:07 GMT+0300 (MSK)
+# timestamp: Thu Nov 22 2018 20:13:21 GMT+0300 (MSK)
 
 type AggregateUser {
   count: Int!

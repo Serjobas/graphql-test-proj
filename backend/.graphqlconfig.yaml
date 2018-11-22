@@ -1,6 +1,6 @@
 projects:
   prisma:
-    schemaPath: schema.graphql
+    schemaPath: "src/generated/prisma.graphql"
     extensions:
       endpoints:
         dev: ${env:PRISMA_ENDPOINT}
