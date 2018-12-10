@@ -1,8 +1,9 @@
 import React from 'react';
+import Items from '../components/Items';
 
 const Index = () => (
   <div>
-    <p >Hello Next.JS</p>
+    <Items />
   </div>
 );
 
