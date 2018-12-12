@@ -1,9 +1,3 @@
-import React from 'react';
+import CreateItem from '../components/CreateItem';
 
-const Sales = () => (
-  <div>
-    <p>Sell</p>
-  </div>
-);
-
-export default Sales;
+export default CreateItem;
