@@ -37,6 +37,7 @@ class Item extends Component {
         </Title>
         <PriceTag>{ formatMoney(price) }</PriceTag>
         <p>{ item.description }</p>
+        <p>{ item.description } </p>
       </ItemStyles>
     );
   }
